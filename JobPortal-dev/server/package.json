@@ -7,7 +7,8 @@
   "start": "node dist/src/server.js",
   "build": "tsc",
   "dev": "ts-node src/server.ts"
-}
+    },
+"keywords": [],
   "keywords": [],
   "author": "",
   "license": "ISC",
