@@ -83,7 +83,7 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} Job Portal. Made with ❤️ by all
             the{" "}
             <a
-              href="https://github.com/drbarzaga/JobPortal?tab=readme-ov-file#our-contributors-"
+              href="https://github.com/girishgowda5478/job-portal?tab=readme-ov-file#our-contributors-"
               className="font-semibold text-indigo-600 hover:text-gray-900"
               target="_blank"
             >
